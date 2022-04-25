@@ -15,6 +15,8 @@ Implementing linear regression in python:
 3. https://medium.com/swlh/linear-regression-9ca9f7801e81 (Optional)
 4. https://medium.com/swlh/linear-regression-explained-for-beginners-in-machine-learning-9e74f168d8a8 (Optional)
 
+You can also look up Lasso and Ridge regression online if interested which are variants of linear regression using regularization.
+
 Note that the numbering is the preference order for the resources
 
 ## Logistic Regression

@@ -7,7 +7,7 @@ Some resources to learn the intuition for Linear regression:
 2. https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0 
 3. https://medium.com/analytics-vidhya/a-comprehensive-guide-to-linear-regression-2994b0d71fe3 (Optional)
 
-If you are mathematically inclined, you can read about the mathematics of Linear regression from 'Linear-regression.pdf' and Chapter 9 of 'Math for ML.pdf' given in the files of Week 1. 
+If you are mathematically inclined, you can read about the mathematics of Linear regression from Part 1 of 'Linear-regression.pdf' or Chapter 9 of 'Math for ML.pdf' given in the files of Week 1. 
 
 Implementing linear regression in python:
 1. https://medium.com/swlh/linear-regression-machine-learning-in-python-227f062bd07c (from scratch)
@@ -22,9 +22,14 @@ Note that the numbering is the preference order for the resources
 Resources to learn the intuition for Logistic Regression:
 1. Week 3 of the course (excluding assignments) - https://www.coursera.org/learn/machine-learning (Highly recommended)
 2. https://medium.com/codex/logistic-regression-and-maximum-likelihood-estimation-function-5d8d998245f9
-3. https://medium.com/analytics-vidhya/understanding-logistic-regression-b3c672deac04
+3. https://medium.com/analytics-vidhya/understanding-logistic-regression-b3c672deac04 (Optional)
 
-If you are mathematically inclined, you can read about the mathematics of Linear regression from 'Linear-regression.pdf' and Chapter 9 of 'Math for ML.pdf' given in the files of Week 1. 
+If you are mathematically inclined, you can read about the mathematics of logistic regression from Part 2 of 'Linear-regression.pdf' given in the files of Week 1. 
 
-https://medium.com/geekculture/logistic-regression-implementation-from-scratch-in-python-f9d6cd4a0747 (Intuition and implementation)
- 
+Implementing Logistic regression in python:
+2. https://towardsdatascience.com/logistic-regression-from-scratch-in-python-ec66603592e2 (from scratch)
+3. https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a (Sklearn)
+4. https://machinelearningknowledge.ai/python-sklearn-logistic-regression-tutorial-with-example/ (Sklearn)
+5. https://medium.com/geekculture/logistic-regression-implementation-from-scratch-in-python-f9d6cd4a0747 (Optional)
+
+Note that the numbering is the preference order for the resources

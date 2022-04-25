@@ -1,5 +1,11 @@
 # Week 1
 
+## Jupyter Notebook
+
+Some resources to get familiar with Jupyter Notebook:
+1. https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+2. https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
 ## Linear Regression
 
 Some resources to learn the intuition for Linear regression:

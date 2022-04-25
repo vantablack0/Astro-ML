@@ -17,3 +17,4 @@ Implementing linear regression in python:
 
 Note that the numbering is the preference order for the resources
 
+## Logistic Regression

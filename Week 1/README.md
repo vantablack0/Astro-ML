@@ -27,9 +27,9 @@ Resources to learn the intuition for Logistic Regression:
 If you are mathematically inclined, you can read about the mathematics of logistic regression from Part 2 of 'Linear-regression.pdf' given in the files of Week 1. 
 
 Implementing Logistic regression in python:
-2. https://towardsdatascience.com/logistic-regression-from-scratch-in-python-ec66603592e2 (from scratch)
-3. https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a (Sklearn)
-4. https://machinelearningknowledge.ai/python-sklearn-logistic-regression-tutorial-with-example/ (Sklearn)
-5. https://medium.com/geekculture/logistic-regression-implementation-from-scratch-in-python-f9d6cd4a0747 (Optional)
+1. https://towardsdatascience.com/logistic-regression-from-scratch-in-python-ec66603592e2 (from scratch)
+2. https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a (Sklearn)
+3. https://machinelearningknowledge.ai/python-sklearn-logistic-regression-tutorial-with-example/ (Sklearn)
+4. https://medium.com/geekculture/logistic-regression-implementation-from-scratch-in-python-f9d6cd4a0747 (Optional)
 
 Note that the numbering is the preference order for the resources
